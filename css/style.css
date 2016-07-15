@@ -1,0 +1,80 @@
+body {
+	width: 800px;
+	font-family: 'Open Sans', 'helvetica', arial, sans-serif;
+	margin: 60px auto;
+	width: 800px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.avatar	{
+	float: left;
+	width: 120px;
+	border-radius: 50%;
+}
+.name_title {
+	float: left;
+	margin-left: 10px;
+	margin-top: -22px;
+} 	
+
+.name {
+	float: left;
+}
+.address{
+	float: right;
+}
+
+.address p {
+	margin: 10px, 0;
+}
+.header_section {
+	clear: both;
+}
+
+.number, .content {
+	float: left;
+}
+.number {
+	font-size: 50px;
+}
+.most_left {
+	margin-left: 40px;
+}
+.content {
+	margin-right:40px;
+	font-size: 17px;
+	width: 100px;
+	margin-top: 12px;
+	margin-left: 5px;
+
+}
+.left {
+	width: 45%;
+	float: left;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+.right {
+	width: 45%;
+	float: right;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+.right li {
+	line-height: 25px;
+}
+
+.main_section {
+	width: 100%;
+	float: left;
+}
+footer {
+	clear: both;
+	text-align: center;
+	
+}
+
